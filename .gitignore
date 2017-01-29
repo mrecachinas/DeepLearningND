@@ -1,3 +1,5 @@
 *~
 *.py[cho]
+.ipynb_checkpoints/
+*.sw[mnop]
 .DS_Store
