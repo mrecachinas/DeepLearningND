@@ -1,5 +1,9 @@
 *~
 *.py[cho]
 .ipynb_checkpoints/
+save.*
+checkpoint
+*.p
+__pycache__/
 *.sw[mnop]
 .DS_Store
